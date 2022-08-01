@@ -204,7 +204,6 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   var result = numero;
   var i = 0;
-  
   do{
     result = result + 5;
     i = i + 1;
